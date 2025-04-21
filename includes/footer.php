@@ -34,7 +34,7 @@ if (isset($_POST['sub'])) {
                 <p><span class="fa fa-map-marker"></span> <?php echo $row['PageDescription']; ?></p>
               </li>
               <li><a href="tel:+91-9795285894"><span class="fa fa-phone"></span> +91-<?php echo $row['MobileNumber']; ?></a></li>
-              <li><a href="mailto:siddiquizaid213@gmail.com" class="mail"><span class="fa fa-envelope-open-o"></span> <?php echo $row['Email']; ?></a></li><?php } ?>
+              <li><a href="mailto:aishith@gmail.com" class="mail"><span class="fa fa-envelope-open-o"></span> <?php echo $row['Email']; ?></a></li><?php } ?>
           </ul>
           <div class="main-social-footer-29">
             <a href="#facebook" class="facebook"><span class="fa fa-facebook"></span></a>
