@@ -60,7 +60,7 @@ if (strlen($_SESSION['uid']==0)) {
     <fieldset>
       <h5>Bank Details</h5>
       <p>Bank Name: CANARA BANK</p>
-      <p>Beneficiary Name: Zaid Siddiqui</p>
+      <p>Beneficiary Name: Karri Aishith</p>
       <p>Account Number: 5319100304595</p>
       <p>IFSC Code: CNRB0005319</p>
     </fieldset>
